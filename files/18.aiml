@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<category>
+	    <pattern> ^ SOFT ^ DRINKS ^ </pattern>
+	    <template>The soft drinks at the canteen include a range of Nippies falvoured mineral water with flavours such as raspberry, orange, lime, tropical and my favourite, portello..</template>
+    </category>
+</aiml>

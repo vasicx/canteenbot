@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<category>
+	    <pattern> ^ VEGAN ^ </pattern>
+	    <template>Some vegan options include: Fruit salad, bread roll, vegetable spring rolls, sushi and more.</template>
+    </category>
+    <category>
+        <pattern> ^ VEGETARIAN ^ </pattern>
+        <template>Some vegetarian options include: Pizza, Nachos, potato cake, vegetable spring rolls, focaccia and more.</template>
+    </category>
+    <category>
+        <pattern> ^ GLUTEN FREE ^ </pattern>
+        <template>Some gluteen options include: potato cake, hot chips, Nachos, Sushi and more.</template>
+    </category>
+</aiml>

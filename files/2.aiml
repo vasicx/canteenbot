@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+    
+<category>
+	    <pattern> ^ BUY ^ CANTEEN ^ </pattern>
+	    <template>The menu can be accessed through MyMc or MyMarcellin.</template>
+    </category>
+    <category>
+	    <pattern> ^ ORDER ^ CANTEEN ^ </pattern>
+	    <template>The menu can be accessed through MyMc or MyMarcellin.</template>
+    </category>
+
+</aiml>

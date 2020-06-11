@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<category>
+	    <pattern> ^ PAY ^ CANTEEN ^ </pattern>
+	    <template>You can pay with cash when you first start, but then you must use your student card. </template>
+    </category>
+</aiml>

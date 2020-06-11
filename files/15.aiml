@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+    
+	<category>
+	    <pattern> ^ AFTER ^ SCHOOL ^ </pattern>
+	    <template>The canteen doesn’t open after school.</template>
+    </category>
+    
+    <category>
+	    <pattern> ^ BEFORE ^ SCHOOL ^ </pattern>
+	    <template>The canteen is open before school on Tuesdays and Thursdays from 8:00am to 8:30am.</template>
+    </category>
+</aiml>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<category>
+    <pattern> ^ WHAT ^ SPECIALS ^ </pattern>
+    <template>The specials change every day, the menu with the specials on it can be found on mymc or on the specials board on the back wall of the canteen. </template>
+</category>
+</aiml>

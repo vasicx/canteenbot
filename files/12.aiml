@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<category>
+	    <pattern> ^ WHERE ^ ORDERS ^ </pattern>
+	    <template>You can now order online instead of bringing the paper bag in. If you wish you can put your order on a paper bag and leave it in the lunch orders box on the left of the canteen.  </template>
+    </category>
+</aiml>
