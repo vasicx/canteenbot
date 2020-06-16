@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<category>
+	    <pattern>HI ^ </pattern>
+	    <template>Hi there, what would you like to know about the canteen at Marcellin? Some things you can ask include: Where is the canteen? How much money is on my card? What time is the canteen open? Is there a vegetarian option?</template>
+    </category>
+    <category>
+	    <pattern>HEY ^ </pattern>
+	    <template>Hi there, what would you like to know about the canteen at Marcellin? Some things you can ask include: Where is the canteen? How much money is on my card? What time is the canteen open? Is there a vegetarian option?</template>
+    </category>
+    <category>
+	    <pattern>HELLO ^ </pattern>
+	    <template>Hi there, what would you like to know about the canteen at Marcellin? Some things you can ask include: Where is the canteen? How much money is on my card? What time is the canteen open? Is there a vegetarian option?</template>
+    </category>
+</aiml>

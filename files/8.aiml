@@ -8,4 +8,37 @@
 </link> 
 </template>
 </category>
+<category>
+    <pattern> ^ WHAT ^ MENU ^ </pattern>
+    <template>The menu can be found on mymc<link>
+    <text>here.</text>
+    <url>https://canteen.marcellin.vic.edu.au/MonitorOnline/app/#/app/main</url>
+</link> 
+</template>
+</category>
+<category>
+    <pattern> ^ ON ^ MENU ^ </pattern>
+    <template>The menu can be found on mymc<link>
+    <text>here.</text>
+    <url>https://canteen.marcellin.vic.edu.au/MonitorOnline/app/#/app/main</url>
+</link> 
+</template>
+</category>
+<category>
+    <pattern> ^ EAT ^ </pattern>
+    <template>The menu can be found on mymc<link>
+    <text>here.</text>
+    <url>https://canteen.marcellin.vic.edu.au/MonitorOnline/app/#/app/main</url>
+</link> 
+</template>
+</category>
+<category>
+    <pattern> ^ FOOD ^ </pattern>
+    <template>The menu can be found on mymc<link>
+    <text>here.</text>
+    <url>https://canteen.marcellin.vic.edu.au/MonitorOnline/app/#/app/main</url>
+</link> 
+</template>
+</category>
+
 </aiml>

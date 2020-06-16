@@ -10,6 +10,6 @@
     </category>
     <category>
         <pattern> ^ GLUTEN FREE ^ </pattern>
-        <template>Some gluteen options include: potato cake, hot chips, Nachos, Sushi and more.</template>
+        <template>Some gluteen options include: Noodles, hot chips, Nachos, Sushi and more.</template>
     </category>
 </aiml>

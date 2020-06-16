@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml version="2.0">
 	<category>
-    <pattern>WHAT TIME IS THE CANTEEN OPEN</pattern>
-    <template> The canteen is always open during the day and sometimes in the mornings but not after school. </template>
+    <pattern> ^ TIME ^ OPEN ^</pattern>
+    <template> The canteen is always open during reccess and lunch, sometimes in the mornings but not after school. </template>
+</category>
+<category>
+    <pattern> ^ WHEN ^ OPEN ^</pattern>
+    <template> The canteen is always open during reccess and lunch, sometimes in the mornings but not after school. </template>
 </category>
 </aiml>

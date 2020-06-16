@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml version="2.0">
 	<category>
-	    <pattern> ^ SOFT ^ DRINKS ^ </pattern>
+	    <pattern> ^ SOFT ^ </pattern>
 	    <template>The soft drinks at the canteen include a range of Nippies falvoured mineral water with flavours such as raspberry, orange, lime, tropical and my favourite, portello..</template>
+    </category>
+    <category>
+	    <pattern> ^ SUGARY ^ </pattern>
+	    <template>The soft drinks at the canteen include a range of Nippies falvoured mineral water with flavours such as raspberry, orange, lime, tropical and my favourite, portello..</template>
+    </category>
+    <category>
+        <pattern> ^ DRINKS ^ </pattern>
+        <template>The drinks at the canteen include: Flavoured Milk, Fruit Juices, Flavoured Mineral Water and Ice Tea.</template>
     </category>
 </aiml>

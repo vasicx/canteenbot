@@ -9,4 +9,22 @@
         </link>
 	    </template>
     </category>
+    <category>
+	    <pattern> ^ CASH ^ CARD ^ </pattern>
+	    <template>The link to see how much money is on your card can be found
+	    <link>
+	        <text>here.</text>
+	        <url>https://canteen.marcellin.vic.edu.au/MonitorOnline/app/#/app/main</url>
+        </link>
+	    </template>
+    </category>
+    <category>
+	    <pattern> ^ MUCH ^ CARD ^ </pattern>
+	    <template>The link to see how much money is on your card can be found
+	    <link>
+	        <text>here.</text>
+	        <url>https://canteen.marcellin.vic.edu.au/MonitorOnline/app/#/app/main</url>
+        </link>
+	    </template>
+    </category>
 </aiml>
